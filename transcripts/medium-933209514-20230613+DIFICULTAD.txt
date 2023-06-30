@@ -1,0 +1,24 @@
+
+SPEAKER 1 0.0
+Hola, buenos días. Buenos días. Me comunico con la señora Sonia Maywa Mayaska.
+
+SPEAKER 2 11.84
+Le saludo a la señorita Maywe Custodio. Estamos llamando por encargo de Cajahuancayo.
+
+SPEAKER 1 17.52
+¿La señora Sonia?
+
+SPEAKER 2 21.52
+El motivo de mi llamada, señores, es por la cuota vencida de su crédito del mes de mayo.
+
+SPEAKER 1 25.52
+¿Hoy se está acercando?
+
+SPEAKER 2 41.519999999999996
+El compromiso máximo que se le puede generar en el sistema es el día jueves 15.
+
+SPEAKER 1 57.52
+El día 23, señor, estamos hablando todavía de 10 días más.
+
+SPEAKER 2 67.52000000000001
+Tiene que ver la manera de cancelar en esta semana.

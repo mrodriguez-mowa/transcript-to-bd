@@ -1,0 +1,15 @@
+
+SPEAKER 1 0.0
+Sí, buenos días. Me comunico con la señora María Elena Norberto.
+
+SPEAKER 2 7.0
+Dígame, señorita.
+
+SPEAKER 1 10.0
+Le saludo a la señorita Maybe Custodio. Estamos llamando por encargo de Caja Huancayo.
+
+SPEAKER 2 22.0
+Sí, señorita, sí.
+
+SPEAKER 1 24.0
+Bueno, entonces la esperamos en el transcurso del día, señora.

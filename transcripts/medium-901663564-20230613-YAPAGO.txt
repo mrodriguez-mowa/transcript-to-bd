@@ -1,0 +1,60 @@
+
+SPEAKER 2 0.0
+Aló.
+
+SPEAKER 1 1.0
+Aló.
+
+SPEAKER 2 2.0
+Aló.
+
+SPEAKER 1 3.0
+Hola, buenos días.
+
+SPEAKER 2 5.0
+Me comunico con la señora Dali Conde Torres.
+
+SPEAKER 1 6.0
+Sí.
+
+SPEAKER 2 7.0
+Sí, con la señora Dali.
+
+SPEAKER 1 8.0
+Sí, señorita.
+
+SPEAKER 2 9.0
+Les saluda la señorita Mayber Custodio.
+
+SPEAKER 1 14.0
+Cájate.
+
+SPEAKER 2 16.0
+Cájate.
+
+SPEAKER 1 19.0
+Cájate.
+
+SPEAKER 2 20.0
+Cájate.
+
+SPEAKER 1 31.0
+¿Ayer se acercó?
+
+SPEAKER 2 33.0
+Ok.
+
+SPEAKER 1 34.0
+Bueno, entonces lo validamos el día de hoy en la actualización, señora.
+
+SPEAKER 2 36.0
+Gracias.
+
+SPEAKER 1 37.0
+Ya sé.
+
+SPEAKER 2 38.0
+Gracias.
+
+SPEAKER 1 45.0
+Gracias.

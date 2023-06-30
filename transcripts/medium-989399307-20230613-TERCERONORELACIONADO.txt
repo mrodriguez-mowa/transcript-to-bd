@@ -1,0 +1,21 @@
+
+SPEAKER 1 0.0
+Sí, buenos días. Me quiero comunicar con el señor Noe Bernardo Chávez.
+
+SPEAKER 2 15.0
+Ah, pero lo conoce o no?
+
+SPEAKER 1 19.0
+Le puede hacer presente mi llamada, señora, o si tuviera algún otro número para poder llamarlo directamente.
+
+SPEAKER 2 38.0
+Es mi herno.
+
+SPEAKER 1 42.0
+Bueno, señora, entonces le agradecería que le haga presente mi llamada de Caja Oancayo para que pueda acercarse.
+
+SPEAKER 2 65.0
+Gracias, señorita.
+
+SPEAKER 1 67.0
+Muy bien, gracias, buen día.

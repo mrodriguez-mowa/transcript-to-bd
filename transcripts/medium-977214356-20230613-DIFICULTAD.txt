@@ -1,0 +1,42 @@
+
+SPEAKER 1 0.0
+¿Aló?
+
+SPEAKER 2 7.04
+¿Aló?
+
+SPEAKER 1 7.54
+¿Aló?
+
+SPEAKER 2 25.48
+¿Cajahuacayo? ¿De cuánto era?
+
+SPEAKER 1 29.4
+Su cuota es 536 soles, señor Lodoro.
+
+SPEAKER 2 36.16
+Ah, sí. Vale, señorita. Está con la enfermedad del dengue, por eso no estamos cancelando, señorita.
+
+SPEAKER 1 54.480000000000004
+¿Y más o menos para qué fecha estaría cancelando su cuota, señor?
+
+SPEAKER 2 58.879999999999995
+Señorita, ¿yo lo puedo cancelar? Las dos cuotas juntas ya.
+
+SPEAKER 1 77.28
+¿Puedes cancelar la cuota dentro de este mes, señor Lodoro?
+
+SPEAKER 2 84.0
+Recuerde que eso lo perjudica también.
+
+SPEAKER 1 92.0
+Ya estamos casi mitad de mes, señor.
+
+SPEAKER 2 95.60000000000001
+Ya pues, al 20 más o menos, señorita.
+
+SPEAKER 1 106.72
+Bueno, entonces nos volvemos a comunicar con usted, señor.
+
+SPEAKER 2 112.24000000000001
+Ya listo. Gracias.

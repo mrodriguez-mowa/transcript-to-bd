@@ -1,0 +1,9 @@
+
+SPEAKER 1 0.0
+¿Aló?
+
+SPEAKER 2 1.0
+¿Sí?
+
+SPEAKER 1 2.4
+¿Aló?
